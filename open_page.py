@@ -17,4 +17,3 @@ def open_page():
 
 keyboard.add_hotkey('ctrl+q', open_page)
 keyboard.wait('Esc')
-#-> Subir a GitHub
